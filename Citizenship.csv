@@ -1,0 +1,91 @@
+ID Citizenship,Citizenship,ID Year,Year,Citizenship Status,Geography,ID Geography,Slug Geography,Citizenship %
+0,"Citizen",2022,"2022",309482689,"United States","01000US","united-states",0.9347174233308304
+0,"Citizen",2022,"2022",18173088,"New York","04000US36","new-york",0.9089098491130932
+0,"Citizen",2022,"2022",1212196,"Bronx County, NY","05000US36005","bronx-county-ny",0.8399193752342837
+0,"Citizen",2022,"2022",2321121,"Kings County, NY","05000US36047","kings-county-ny",0.8662127465834708
+0,"Citizen",2022,"2022",1433250,"New York County, NY","05000US36061","new-york-county-ny",0.8708176298570905
+0,"Citizen",2022,"2022",1907613,"Queens County, NY","05000US36081","queens-county-ny",0.8080277834961154
+0,"Citizen",2022,"2022",454879,"Richmond County, NY","05000US36085","richmond-county-ny",0.9228158441953644
+0,"Citizen",2022,"2022",7329059,"New York, NY","16000US3651000","new-york-ny",0.8499955987074232
+0,"Citizen",2022,"2022",17513851,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8797130586060945
+0,"Citizen",2021,"2021",308022042,"United States","01000US","united-states",0.9341772466775171
+0,"Citizen",2021,"2021",18252642,"New York","04000US36","new-york",0.9074259703516003
+0,"Citizen",2021,"2021",1228575,"Bronx County, NY","05000US36005","bronx-county-ny",0.8367546119153121
+0,"Citizen",2021,"2021",2346071,"Kings County, NY","05000US36047","kings-county-ny",0.8649556106121606
+0,"Citizen",2021,"2021",1451718,"New York County, NY","05000US36061","new-york-county-ny",0.8697468796562514
+0,"Citizen",2021,"2021",1926683,"Queens County, NY","05000US36081","queens-county-ny",0.8050978979601388
+0,"Citizen",2021,"2021",454625,"Richmond County, NY","05000US36085","richmond-county-ny",0.9217975076744648
+0,"Citizen",2021,"2021",7407672,"New York, NY","16000US3651000","new-york-ny",0.8479432402321095
+0,"Citizen",2021,"2021",17576322,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8782973775688079
+0,"Citizen",2020,"2020",304900364,"United States","01000US","united-states",0.9336467222449453
+0,"Citizen",2020,"2020",17694151,"New York","04000US36","new-york",0.9067019170888794
+0,"Citizen",2020,"2020",1187900,"Bronx County, NY","05000US36005","bronx-county-ny",0.8324130237355787
+0,"Citizen",2020,"2020",2223969,"Kings County, NY","05000US36047","kings-county-ny",0.8630836810876868
+0,"Citizen",2020,"2020",1407750,"New York County, NY","05000US36061","new-york-county-ny",0.864099320321664
+0,"Citizen",2020,"2020",1829077,"Queens County, NY","05000US36081","queens-county-ny",0.805414500197272
+0,"Citizen",2020,"2020",438727,"Richmond County, NY","05000US36085","richmond-county-ny",0.9224783219371063
+0,"Citizen",2020,"2020",7087423,"New York, NY","16000US3651000","new-york-ny",0.8457997515857649
+0,"Citizen",2020,"2020",16902041,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8775006917919983
+0,"Citizen",2019,"2019",302533815,"United States","01000US","united-states",0.9317396658021654
+0,"Citizen",2019,"2019",17686676,"New York","04000US36","new-york",0.9036576605970912
+0,"Citizen",2019,"2019",1182864,"Bronx County, NY","05000US36005","bronx-county-ny",0.8242564115428677
+0,"Citizen",2019,"2019",2224920,"Kings County, NY","05000US36047","kings-county-ny",0.8590510947214142
+0,"Citizen",2019,"2019",1399726,"New York County, NY","05000US36061","new-york-county-ny",0.8576789238679332
+0,"Citizen",2019,"2019",1832496,"Queens County, NY","05000US36081","queens-county-ny",0.8011303722848944
+0,"Citizen",2019,"2019",438634,"Richmond County, NY","05000US36085","richmond-county-ny",0.9236480638796529
+0,"Citizen",2019,"2019",7078640,"New York, NY","16000US3651000","new-york-ny",0.840761886119965
+0,"Citizen",2019,"2019",16862622,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8739719986839593
+0,"Citizen",2018,"2018",300613540,"United States","01000US","united-states",0.9309715675322093
+0,"Citizen",2018,"2018",17680633,"New York","04000US36","new-york",0.9012246276503045
+0,"Citizen",2018,"2018",1179367,"Bronx County, NY","05000US36005","bronx-county-ny",0.8202169595068267
+0,"Citizen",2018,"2018",2221479,"Kings County, NY","05000US36047","kings-county-ny",0.8541695905061123
+0,"Citizen",2018,"2018",1392398,"New York County, NY","05000US36061","new-york-county-ny",0.8529341860237185
+0,"Citizen",2018,"2018",1835397,"Queens County, NY","05000US36081","queens-county-ny",0.7985149529282628
+0,"Citizen",2018,"2018",437646,"Richmond County, NY","05000US36085","richmond-county-ny",0.9231071016513359
+0,"Citizen",2018,"2018",7066287,"New York, NY","16000US3651000","new-york-ny",0.8368696330630849
+0,"Citizen",2018,"2018",17477053,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8742639037403195
+0,"Citizen",2017,"2017",298666642,"United States","01000US","united-states",0.9304129023998103
+0,"Citizen",2017,"2017",17792216,"New York","04000US36","new-york",0.8986771947469239
+0,"Citizen",2017,"2017",1191315,"Bronx County, NY","05000US36005","bronx-county-ny",0.8182974023351371
+0,"Citizen",2017,"2017",2235548,"Kings County, NY","05000US36047","kings-county-ny",0.8483663558523499
+0,"Citizen",2017,"2017",1409415,"New York County, NY","05000US36061","new-york-county-ny",0.8521885242977562
+0,"Citizen",2017,"2017",1857176,"Queens County, NY","05000US36081","queens-county-ny",0.7939092370301973
+0,"Citizen",2017,"2017",439519,"Richmond County, NY","05000US36085","richmond-county-ny",0.9234601258961063
+0,"Citizen",2017,"2017",7132973,"New York, NY","16000US3651000","new-york-ny",0.8332842293849865
+0,"Citizen",2017,"2017",17588433,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8710576671740282
+0,"Citizen",2016,"2016",296343215,"United States","01000US","united-states",0.9302640784322456
+0,"Citizen",2016,"2016",17677060,"New York","04000US36","new-york",0.8974285360795559
+0,"Citizen",2016,"2016",1172865,"Bronx County, NY","05000US36005","bronx-county-ny",0.8163121135034122
+0,"Citizen",2016,"2016",2196571,"Kings County, NY","05000US36047","kings-county-ny",0.8426143870077779
+0,"Citizen",2016,"2016",1390006,"New York County, NY","05000US36061","new-york-county-ny",0.8501622946698724
+0,"Citizen",2016,"2016",1825917,"Queens County, NY","05000US36081","queens-county-ny",0.7904364957569466
+0,"Citizen",2016,"2016",438387,"Richmond County, NY","05000US36085","richmond-county-ny",0.9261879811714597
+0,"Citizen",2016,"2016",7023746,"New York, NY","16000US3651000","new-york-ny",0.8300376236666654
+0,"Citizen",2016,"2016",17413944,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8693304820825939
+0,"Citizen",2015,"2015",294245828,"United States","01000US","united-states",0.9296425397769669
+0,"Citizen",2015,"2015",17625647,"New York","04000US36","new-york",0.8959228948008084
+0,"Citizen",2015,"2015",1164072,"Bronx County, NY","05000US36005","bronx-county-ny",0.8149727274063837
+0,"Citizen",2015,"2015",2175467,"Kings County, NY","05000US36047","kings-county-ny",0.8382465873348286
+0,"Citizen",2015,"2015",1381746,"New York County, NY","05000US36061","new-york-county-ny",0.8479533994023959
+0,"Citizen",2015,"2015",1806224,"Queens County, NY","05000US36081","queens-county-ny",0.7849260735661775
+0,"Citizen",2015,"2015",437012,"Richmond County, NY","05000US36085","richmond-county-ny",0.9249303146581556
+0,"Citizen",2015,"2015",6964521,"New York, NY","16000US3651000","new-york-ny",0.8264783914734317
+0,"Citizen",2015,"2015",17328920,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8673154837724819
+0,"Citizen",2014,"2014",291850247,"United States","01000US","united-states",0.9291425181610995
+0,"Citizen",2014,"2014",17536172,"New York","04000US36","new-york",0.8949615526532421
+0,"Citizen",2014,"2014",1149212,"Bronx County, NY","05000US36005","bronx-county-ny",0.8129878619038658
+0,"Citizen",2014,"2014",2146253,"Kings County, NY","05000US36047","kings-county-ny",0.8348576961032768
+0,"Citizen",2014,"2014",1371833,"New York County, NY","05000US36061","new-york-county-ny",0.8476487242322346
+0,"Citizen",2014,"2014",1783259,"Queens County, NY","05000US36081","queens-county-ny",0.7819246847981366
+0,"Citizen",2014,"2014",435256,"Richmond County, NY","05000US36085","richmond-county-ny",0.923087363898185
+0,"Citizen",2014,"2014",6885813,"New York, NY","16000US3651000","new-york-ny",0.8241657070488908
+0,"Citizen",2014,"2014",17192318,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8654557792343285
+0,"Citizen",2013,"2013",289401591,"United States","01000US","united-states",0.9289489471660591
+0,"Citizen",2013,"2013",17443112,"New York","04000US36","new-york",0.8951128731471095
+0,"Citizen",2013,"2013",1138054,"Bronx County, NY","05000US36005","bronx-county-ny",0.8144577278566394
+0,"Citizen",2013,"2013",2113433,"Kings County, NY","05000US36047","kings-county-ny",0.8321293619273097
+0,"Citizen",2013,"2013",1362874,"New York County, NY","05000US36061","new-york-county-ny",0.8489987989574352
+0,"Citizen",2013,"2013",1760268,"Queens County, NY","05000US36081","queens-county-ny",0.7801223187378125
+0,"Citizen",2013,"2013",433747,"Richmond County, NY","05000US36085","richmond-county-ny",0.9224282946601932
+0,"Citizen",2013,"2013",6808376,"New York, NY","16000US3651000","new-york-ny",0.8233615701247515
+0,"Citizen",2013,"2013",17059490,"New York-Newark-Jersey City, NY-NJ-PA","31000US35620","new-york-newark-jersey-city-ny-nj-pa",0.8652225909981701
